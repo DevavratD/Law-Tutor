@@ -1,0 +1,64 @@
+{
+  "quiz_id": "2a696818-506d-417b-b015-569befd7acb6",
+  "document_id": "ce1a9802-22b1-4557-a6f8-3858a391380e",
+  "generated_at": "2025-04-18T23:20:48.217385",
+  "difficulty": "medium",
+  "num_questions": 5,
+  "questions": [
+    {
+      "question": "In the case of N. Devaraje Urs vs M. Ramakrishniah, what was the amount found due to the plaintiff from Annapurnamma?",
+      "options": [
+        "A. Rs. 1780/-",
+        "B. Rs. 17807/-",
+        "C. Rs. 1470/-",
+        "D. Rs. 310/-"
+      ],
+      "correct_answer": "B",
+      "explanation": "According to the judgment, a sum of Rs. 17807/- was found due to the plaintiff in connection with the construction of a house in Mysore City for Annapurnamma."
+    },
+    {
+      "question": "What was the defendant's plea regarding his liability to pay the plaintiff?",
+      "options": [
+        "A. He admitted liability and promised to pay",
+        "B. He denied liability and claimed he had no privity of contract with the plaintiff",
+        "C. He claimed the plaintiff had not completed the work",
+        "D. He claimed the suit was barred by time"
+      ],
+      "correct_answer": "B",
+      "explanation": "The defendant denied that he had ever agreed with the plaintiff to pay the sum and pleaded that he had no personal liability to the plaintiff as there was no privity of contract between them."
+    },
+    {
+      "question": "What was the decision of the Subordinate Judge of Mysore in the appeal filed by the plaintiff?",
+      "options": [
+        "A. The appeal was dismissed",
+        "B. The decree was granted for the full sum claimed in the plaint",
+        "C. The decree was reduced by Rs. 100/-",
+        "D. The suit was held to be barred by time"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Subordinate Judge allowed the plaintiff's appeal and granted a decree for the full sum claimed in the plaint, dismissing the defendant's cross-objections."
+    },
+    {
+      "question": "Why did the learned Subordinate Judge not accept the finding of the learned Munsiff to reduce the plaintiff's claim by Rs. 100/-?",
+      "options": [
+        "A. The plaintiff had admitted to receiving Rs. 100/- less",
+        "B. The defendant had pleaded payment of Rs. 100/- more",
+        "C. The plaintiff's deposition in cross-examination was ambiguous",
+        "D. The plaintiff could not remember the exact figures and dates of payments"
+      ],
+      "correct_answer": "C",
+      "explanation": "The learned Subordinate Judge did not accept the finding of the learned Munsiff as it was based on an ambiguous sentence in the cross-examination of the plaintiff, and the plaintiff could not be expected to remember the exact figures and dates of payments made long ago."
+    },
+    {
+      "question": "What was the basis of the plaintiff's claim against the defendant?",
+      "options": [
+        "A. A contract between the plaintiff and the defendant",
+        "B. A promise by the defendant to pay the plaintiff as part of the purchase money due to Annapurnamma",
+        "C. A receipt signed by the defendant",
+        "D. A decree passed by a previous court"
+      ],
+      "correct_answer": "B",
+      "explanation": "The plaintiff's claim was based on a promise by the defendant to pay the plaintiff as part of the purchase money due to Annapurnamma, as stated in the sale deed dated 15-4-1941."
+    }
+  ]
+}

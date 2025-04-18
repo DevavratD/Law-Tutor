@@ -1,0 +1,64 @@
+{
+  "quiz_id": "c6625a2b-716e-4642-9002-6ef3f86a9d11",
+  "document_id": "ce1a9802-22b1-4557-a6f8-3858a391380e",
+  "generated_at": "2025-04-18T23:22:21.105092",
+  "difficulty": "medium",
+  "num_questions": 5,
+  "questions": [
+    {
+      "question": "In the case of N. Devaraje Urs vs M. Ramakrishniah, what was the basis of the plaintiff's claim against the defendant?",
+      "options": [
+        "A. A direct contract between the plaintiff and the defendant for construction work",
+        "B. A promise by the defendant to pay the plaintiff as part of the purchase money due to Annapurnamma",
+        "C. A court order directing the defendant to pay the plaintiff",
+        "D. A statutory obligation on the part of the defendant to pay the plaintiff"
+      ],
+      "correct_answer": "B",
+      "explanation": "The plaintiff's claim was based on a promise by the defendant to pay the plaintiff as part of the purchase money due to Annapurnamma, as stated in the sale deed dated 15-4-1941."
+    },
+    {
+      "question": "What was the defendant's primary defense against the plaintiff's claim?",
+      "options": [
+        "A. That the plaintiff had not completed the construction work as required",
+        "B. That the defendant had already paid the full amount due to the plaintiff",
+        "C. That there was no privity of contract between the defendant and the plaintiff",
+        "D. All of the above"
+      ],
+      "correct_answer": "D",
+      "explanation": "The defendant denied that the plaintiff had done work to the extent required, denied agreeing to pay the plaintiff, and pleaded that there was no privity of contract between them, making all of the above options part of the defendant's defense."
+    },
+    {
+      "question": "What was the outcome of the case at the level of the First Munsiff of Mysore?",
+      "options": [
+        "A. The plaintiff's claim was entirely dismissed",
+        "B. The defendant's defense was entirely upheld",
+        "C. The plaintiff was granted a decree for the amount claimed less Rs. 100/-",
+        "D. The case was transferred to a higher court"
+      ],
+      "correct_answer": "C",
+      "explanation": "The First Munsiff of Mysore held all the issues in favor of the plaintiff and granted a decree for the amount claimed less Rs. 100/-, and interest by way of damages at 6 per cent per annum."
+    },
+    {
+      "question": "Why did the Subordinate Judge of Mysore allow the plaintiff's appeal?",
+      "options": [
+        "A. Because the defendant had not paid the full amount due to the plaintiff",
+        "B. Because the First Munsiff had incorrectly reduced the plaintiff's claim by Rs. 100/-",
+        "C. Because there was new evidence presented in the appeal",
+        "D. Because the defendant had admitted liability"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Subordinate Judge allowed the plaintiff's appeal because the First Munsiff had incorrectly reduced the plaintiff's claim by Rs. 100/-, based on an ambiguous sentence in the plaintiff's cross-examination, and there was no basis for this reduction."
+    },
+    {
+      "question": "What was the final outcome of the case after the defendant's second appeal?",
+      "options": [
+        "A. The defendant's appeal was allowed, and the plaintiff's claim was dismissed",
+        "B. The plaintiff's claim was reduced further",
+        "C. The decision of the Subordinate Judge was upheld, granting the plaintiff a decree for the full sum claimed",
+        "D. The case was remanded back to the First Munsiff for retrial"
+      ],
+      "correct_answer": "C",
+      "explanation": "Although the text does not explicitly state the outcome of the second appeal, based on the information given, the Subordinate Judge's decision to grant the plaintiff a decree for the full sum claimed was the last decision mentioned, implying that this decision was upheld or is the relevant point of contention in the second appeal."
+    }
+  ]
+}
