@@ -45,7 +45,11 @@ def run_command(command, shell=True, check=False, capture_output=False):
 def check_python_version():
     """Check if the current Python version is compatible"""
     print_status("Checking Python version")
-    major, minor, _ = sys.version_info
+    
+    # Fix: sys.version_info is a named tuple, not just 3 values
+    version_info = sys.version_info
+    major, minor = version_info.major, version_info.minor
+    
     if major != 3 or minor < 8:
         print(f"❌ Incompatible Python version: {major}.{minor}")
         print("This project requires Python 3.8 or higher")
